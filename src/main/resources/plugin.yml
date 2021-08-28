@@ -1,0 +1,6 @@
+name: DisableMossSpread
+version: ${project.version}
+main: es.mithrandircraft.disablemossspread.DisableMossSpread
+api-version: 1.17
+authors: [ __Mithrandir__ ]
+description: Disables moss spread
